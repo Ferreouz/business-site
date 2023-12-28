@@ -10,7 +10,7 @@ const GlobalStyles = createGlobalStyle`
     }
     @font-face {
         font-family: 'Unkempt';
-        src: local('Unkempt'), url(http://fonts.gstatic.com/s/unkempt/v7/opYoFyuMZRiBj_IeDTrh8g.ttf) format('truetype');
+        src: local('Unkempt'), url(https://fonts.gstatic.com/s/unkempt/v7/opYoFyuMZRiBj_IeDTrh8g.ttf) format('truetype');
     }
     :root {
 
